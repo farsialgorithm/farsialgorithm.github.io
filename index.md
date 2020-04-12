@@ -24,7 +24,7 @@
 
 
 
-<img src="http://dorostcode.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-10-at-5.16.10-PM.png" alt="طرح جلد کتاب" sizes="(max-width: 588px) 100vw, 588px" />طرح جلد</img>
+<img src="http://farsialgorithm.github.io/blob/master/jeld.png" alt="طرح جلد کتاب" sizes="(max-width: 588px) 100vw, 588px" />طرح جلد</img>
 
 </div>
 
