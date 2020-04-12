@@ -1,11 +1,11 @@
 <div dir="rtl" lang="fa-IR">
 			
-			کتاب &#8216;آمادگی برای مصاحبه های برنامه نویسی به سبک شرکت های بزرگ دنیا&#8217;#
+			کتاب &#8216;آمادگی برای مصاحبه های برنامه نویسی به سبک شرکت های بزرگ دنیا&#8217;
 		
 		
-<p style="text-align:left">مولف: دکتر حسین سیادتی، دکتر سیما جعفری خواه</p>
+<p style="text-align:left">مولفین: دکتر حسین سیادتی، دکتر سیما جعفری خواه</p>
 
-<p style="font-size:37px;text-align:center"><a href="http://dorostcode.com/wp-content/uploads/2019/11/programming-interviews-H-Siadati-S-Jafarikhah.pdf"> دانلود کتاب</a></p>
+<p style="font-size:37px;text-align:center"><a href="https://github.com/farsialgorithm/algorithm-book-volume1/blob/master/programming%20interviews-H%20Siadati-S%20Jafarikhah.pdf"> دانلود کتاب</a></p>
 
 
 
@@ -24,7 +24,6 @@
 
 
 
-<img src="http://farsialgorithm.github.io/jeld.png" alt="طرح جلد کتاب" sizes="(max-width: 588px) 100vw, 588px"></img>
-
+<img src="http://farsialgorithm.github.io/jeld.png" alt="طرح جلد کتاب" sizes="(max-width: 588px) 100vw, 588px"/>
 </div>
 
