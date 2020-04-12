@@ -1,6 +1,6 @@
-<div dir="rtl" lang="fa-IR" prefix="og: http://ogp.me/ns#">
+<div dir="rtl" lang="fa-IR">
 			
-			<h1>کتاب &#8216;آمادگی برای مصاحبه های برنامه نویسی به سبک شرکت های بزرگ دنیا&#8217;</h1>
+			کتاب &#8216;آمادگی برای مصاحبه های برنامه نویسی به سبک شرکت های بزرگ دنیا&#8217;#
 		
 		
 <p style="text-align:left">مولف: دکتر حسین سیادتی، دکتر سیما جعفری خواه</p>
@@ -24,7 +24,7 @@
 
 
 
-<img src="http://farsialgorithm.github.io/jeld.png" alt="طرح جلد کتاب" sizes="(max-width: 588px) 100vw, 588px" />طرح جلد</img>
+<img src="http://farsialgorithm.github.io/jeld.png" alt="طرح جلد کتاب" sizes="(max-width: 588px) 100vw, 588px"></img>
 
 </div>
 
