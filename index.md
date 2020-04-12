@@ -24,7 +24,7 @@
 
 
 
-<img src="http://farsialgorithm.github.io/blob/master/jeld.png" alt="طرح جلد کتاب" sizes="(max-width: 588px) 100vw, 588px" />طرح جلد</img>
+<img src="http://farsialgorithm.github.io/jeld.png" alt="طرح جلد کتاب" sizes="(max-width: 588px) 100vw, 588px" />طرح جلد</img>
 
 </div>
 
